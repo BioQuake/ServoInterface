@@ -160,11 +160,8 @@ int main()
 	//Now that our fields are drawn, we'll handle the input and fields.
 	
 	//If enter is pressed 
-	if ((ch = getch()) == Key_Return)
-	{
-		while((ch = getch)) != Key_Return)	//While enter is not pressed
+		//While enter is not pressed
 			//inputfield[][] is value.
-	}
 							
 	}while((ch = getch()) != Key_F1);//Wait for user input before either refreshing, or shutting down.
 	
