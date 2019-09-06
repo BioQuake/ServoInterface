@@ -1,10 +1,4 @@
 // Program and adapter written by Kevin Huisman (Quake)
-//	    ______        ______   ____	
-//	   /   ___)/-\   |      ) /    \	
-//	 /   /   /     \ |  ^__/ |   |  |	
-//	(   (   /__/-\   \     \ |   ___|		
-//	 \   \_[_  )--`   ) |\   \    qk|		
-//	   \______/______/__|  \__|_____|	
 
 /* INPUT SHEET
 	UP-DN	= SWITCH TABS
